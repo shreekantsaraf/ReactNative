@@ -1,0 +1,3 @@
+rootProject.name = 'MagicToyStoreV1'
+
+include ':app'
